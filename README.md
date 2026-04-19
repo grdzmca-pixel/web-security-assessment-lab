@@ -5,6 +5,9 @@ This project demonstrates how insecure session management and weak authenticatio
 
 The lab simulates a vulnerable web environment where different security levels can be manipulated, allowing an attacker to gain unauthorized access to higher-privileged accounts.
 
+![Login Page](./01-login-page.png)
+*Figure 1: Initial access to the vulnerable web application*
+
 ---
 
 ## 🛠️ Lab Environment
