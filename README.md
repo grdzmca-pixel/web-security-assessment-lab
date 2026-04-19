@@ -42,11 +42,35 @@ The lab simulates a vulnerable web environment where different security levels c
 ### 🔹 Privilege Escalation via Cookies
 User privilege was modified by manipulating cookie values.
 
+<p align="center">
+  <img src="./02-cookie-manipulation.png" width="600"/>
+  <br>
+  <em>Figure 2: Privilege escalation achieved through cookie manipulation</em>
+</p>
+
 ### 🔹 Credential Discovery
 Application messages revealed valid credentials.
 
+<p align="center">
+  <img src="./03-credentials.png" width="600"/>
+  <br>
+  <em>Figure 3: Valid credentials identified through application response analysis</em>
+</p>
+
 ### 🔹 Brute Force Attack
 Postman was used to automate login attempts and identify valid credentials.
+
+<p align="center">
+  <img src="./04-bruteforce.png" width="600"/>
+  <br>
+  <em>Figure 4: Brute force attack simulation using Postman to identify valid credentials</em>
+</p>
+
+<p align="center">
+  <img src="./05-privilege-change.png" width="600"/>
+  <br>
+  <em>Figure 5: Successful privilege escalation resulting in increased access level</em>
+</p>
 
 ---
 
