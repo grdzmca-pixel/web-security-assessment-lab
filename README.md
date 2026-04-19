@@ -1,4 +1,4 @@
-# 🔐 Web Application Security Assessment & Privilege Escalation Lab
+# 🔐 Web Application Security Assessment Lab
 
 ## 📌 Overview
 This project demonstrates how insecure session management and weak authentication mechanisms in a web application can lead to privilege escalation and account compromise.
